@@ -1,0 +1,77 @@
+/*Navbar*/
+
+.nav {
+    background-color: blue;
+}
+
+#navcontainer ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+#navcontainer ul li {
+    display: inline;
+    margin-left: 190px;
+}
+
+
+/*Home*/
+
+#Home {
+    background-color: grey;
+    height: 590px;
+}
+
+.title {
+    text-align: center;
+}
+
+.smi {
+    /* padding: 0 100px 0 110px; */
+    padding: 117px;
+}
+
+
+/*About Me*/
+
+#About-Me {
+    padding: 50px 0 0 0;
+    height: 700px;
+}
+
+.card {
+    margin-left: 50px;
+}
+
+.title-subsection {
+    text-align: center;
+}
+
+.i-a-h {
+    padding: 28px;
+}
+
+
+/*Portfolio*/
+
+#Portfolio {
+    padding: 50px 0 0 0;
+    height: 590px;
+}
+
+.PTitle {
+    letter-spacing: 10px;
+}
+
+#test {
+    height: 1000px;
+}
+
+
+/*Contact Me*/
+
+#Contact-Me {
+    margin-top: 100px;
+    height: 990px;
+}
